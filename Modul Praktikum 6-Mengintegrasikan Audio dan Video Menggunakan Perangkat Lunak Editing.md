@@ -6,7 +6,7 @@
 | **Institusi** | Politeknik Negeri Lhokseumawe |
 | **Pertemuan** | 10: Mengintegrasikan Audio dan Video Menggunakan Perangkat Lunak Editing |
 | **Level Kompetensi** | \[C3\] \- Menerapkan |
-| **Dosen Pengampu** | \[Nama Dosen Pengampu\] |
+| **Dosen Pengampu** | Umri Erdiansyah |
 
 ### **A. Capaian Pembelajaran & Indikator Penilaian**
 

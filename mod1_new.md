@@ -323,74 +323,329 @@ Seiring meningkatnya kesadaran tentang kesehatan mata dan konsumsi baterai, *dar
 **Voice Interface dan Bahasa Indonesia**
 Dengan semakin canggihnya Natural Language Processing (NLP) untuk Bahasa Indonesia, antarmuka berbasis suara (voice interface) mulai hadir di pasar Indonesia. Google Assistant, Siri, dan asisten virtual lokal kini mendukung Bahasa Indonesia dengan lebih baik, membuka peluang baru dalam desain interaksi berbasis suara.
 
+
 ### **D. Langkah-langkah Praktikum**
 
-Praktikum ini terdiri dari dua kegiatan utama: Analisis Produk Baik dan Ideasi Ulang Produk Buruk.
+Praktikum ini terdiri dari **empat kegiatan utama** yang dirancang secara progresif. Alokasi waktu: Kegiatan 1 (40 menit), Kegiatan 2 (35 menit), Kegiatan 3 (40 menit), Kegiatan 4 (35 menit).
 
-#### **Kegiatan 1: Analisis Produk Digital (Studi Kasus Baik \- 75 Menit)**
+---
 
-Pada kegiatan ini, kita akan menganalisis aplikasi yang dianggap memiliki desain yang baik untuk memahami mengapa aplikasi tersebut berhasil.
+#### **Kegiatan 1: Analisis Produk Digital Unggul (40 Menit)**
 
-1. **Pilih Aplikasi dan Fitur:**  
-   * Buka salah satu aplikasi berikut di *smartphone* Anda: **Grab, Shopee, Tokopedia, atau Traveloka**.  
-   * Pilih **satu alur fitur spesifik** untuk dianalisis. Contoh:  
-     * *Alur pemesanan GoRide/GrabBike dari awal hingga mendapatkan driver.*  
-     * *Alur mencari produk, memasukkan ke keranjang, hingga ke halaman checkout di Tokopedia.*  
-     * *Alur pencarian dan pemilihan tiket pesawat di Traveloka.*  
-2. **Analisis Menggunakan Prinsip IxD:**  
-   * Jalankan alur fitur yang Anda pilih beberapa kali. Perhatikan setiap tombol yang Anda tekan, informasi yang muncul, dan transisi antar layar.  
-   * Isi tabel analisis berikut di lembar laporan Anda. Berikan contoh nyata dari aplikasi untuk setiap prinsip.
+Pada kegiatan ini, kita akan menganalisis aplikasi yang dianggap memiliki desain yang baik untuk memahami mengapa aplikasi tersebut berhasil dari perspektif IxD dan UX.
 
-| Prinsip IxD | Apakah Diterapkan? (Ya/Tidak) | Penjelasan & Contoh Konkret pada Alur Fitur |
-| :---- | :---- | :---- |
-| **Visibility** | Ya | *Tombol "Pesan GoRide" terlihat jelas dengan warna hijau di halaman utama.* |
-| **Feedback** |  |  |
-| **Affordance** |  |  |
-| **Mapping** |  |  |
-| **Constraints** |  |  |
-| **Consistency** |  |  |
+**Langkah 1.1 – Pemilihan Aplikasi dan Fitur (5 Menit)**
 
-3. **Analisis Menggunakan *UX Honeycomb***:  
-   * Sekarang, pikirkan pengalaman Anda secara keseluruhan saat menggunakan fitur tersebut.  
-   * Lengkapi tabel analisis UX berikut. Beri peringkat 1 (Sangat Buruk) hingga 5 (Sangat Baik) dan jelaskan alasannya.
+* Buka salah satu aplikasi berikut di *smartphone* Anda: **Grab, Shopee, Tokopedia, atau Traveloka**.
+* Pilih **satu alur fitur spesifik** untuk dianalisis. Contoh:
+  * *Alur pemesanan GoRide/GrabBike dari membuka aplikasi hingga mendapatkan driver.*
+  * *Alur mencari produk, memasukkan ke keranjang, hingga ke halaman checkout di Tokopedia.*
+  * *Alur pencarian dan pemilihan tiket pesawat di Traveloka.*
+* Catat nama aplikasi dan nama alur fitur yang dipilih di lembar laporan Anda.
 
-| Aspek UX | Peringkat (1-5) | Alasan dan Penjelasan |
+**Langkah 1.2 – Eksplorasi dan Observasi Mendalam (10 Menit)**
+
+* Jalankan alur fitur yang Anda pilih **minimal 3 kali** dengan pendekatan berbeda:
+  * **Pertama:** Jalankan seperti pengguna biasa tanpa memikirkan desain.
+  * **Kedua:** Jalankan sambil memperhatikan setiap elemen visual dan interaksi—warna, ukuran, posisi tombol, animasi, pesan teks, dan waktu respons.
+  * **Ketiga:** Coba lakukan kesalahan yang disengaja (misalnya: coba lanjut tanpa mengisi field wajib) untuk melihat bagaimana sistem menangani error.
+* Ambil screenshot dari langkah-langkah kunci untuk dilampirkan di laporan.
+
+**Langkah 1.3 – Analisis Menggunakan Prinsip IxD (15 Menit)**
+
+* Isi tabel analisis berikut secara lengkap. Berikan penjelasan konkret yang merujuk pada elemen spesifik—sebutkan nama tombol, warna, atau interaksi spesifik yang Anda temukan.
+
+| Prinsip IxD | Diterapkan? (Ya/Tidak) | Penjelasan & Contoh Konkret pada Alur Fitur | Skor (1–5) |
+| :---- | :---- | :---- | :---- |
+| **Visibility** | Ya | *Tombol "Pesan GoRide" terlihat jelas dengan warna hijau di halaman utama.* | 5 |
+| **Feedback** | | | |
+| **Affordance** | | | |
+| **Mapping** | | | |
+| **Constraints** | | | |
+| **Consistency** | | | |
+| **Rata-rata Skor IxD** | | | |
+
+* Skor 1 = Tidak diterapkan sama sekali; 5 = Diterapkan dengan sangat baik.
+
+**Langkah 1.4 – Analisis Menggunakan UX Honeycomb (10 Menit)**
+
+* Lengkapi tabel analisis UX berikut. Beri peringkat 1 (Sangat Buruk) hingga 5 (Sangat Baik) dan jelaskan alasannya secara spesifik.
+
+| Aspek UX | Peringkat (1-5) | Alasan dan Penjelasan Konkret |
 | :---- | :---- | :---- |
 | **Useful** | 5 | *Sangat bermanfaat karena menyelesaikan masalah transportasi saya dengan cepat.* |
-| **Usable** |  |  |
-| **Findable** |  |  |
-| **Credible** |  |  |
+| **Usable** | | |
+| **Findable** | | |
+| **Credible** | | |
+| **Desirable** | | |
+| **Accessible** | | |
+| **Valuable** | | |
+| **Rata-rata Skor UX** | | |
 
-#### **Kegiatan 2: Ideasi Ulang Pengalaman Buruk (75 Menit)**
+---
+
+#### **Kegiatan 2: Ideasi Ulang Pengalaman Buruk (35 Menit)**
 
 Di sini, Anda akan menjadi seorang *problem solver*. Cari masalah UX di sekitar Anda dan tawarkan ide kreatif untuk menyelesaikannya.
 
-1. **Pilih Sistem Bermasalah:**  
-   * Identifikasi sebuah aplikasi atau sistem digital yang menurut Anda memiliki pengalaman pengguna yang buruk.  
-   * **Saran:** SIAKAD (Sistem Informasi Akademik) kampus, aplikasi layanan publik, website pemerintah, atau antarmuka mesin ATM.  
-2. **Identifikasi Masalah:**  
-   * Jelaskan **minimal 2 masalah utama** yang Anda temukan.  
-   * Gunakan bahasa dari prinsip IxD dan aspek UX untuk menjelaskan mengapa itu menjadi masalah.  
-   * **Contoh Penulisan Masalah:***“Pada SIAKAD, setelah menekan tombol ‘Simpan KRS’ (**Aksi**), tidak ada **Feedback** yang jelas apakah data sudah tersimpan atau belum (**Masalah IxD**). Hal ini membuat pengalaman menjadi tidak **Credible** karena saya tidak yakin dengan status data saya (**Masalah UX**).”*  
-3. **Hasilkan Ide Solusi Kreatif:**  
-   * Fokus pada salah satu masalah yang telah Anda identifikasi.  
-   * **Brainstorming:** Pikirkan cara untuk memperbaiki interaksi atau alur tersebut. Bagaimana agar lebih mudah, jelas, dan efisien?  
-   * **Buat Sketsa (Wireframe):** Gambarkan ide solusi Anda dalam bentuk sketsa antarmuka sederhana di atas kertas atau menggunakan software. Tidak perlu indah, yang penting alur dan idenya tersampaikan. Beri label pada bagian-bagian penting.
+**Langkah 2.1 – Pemilihan Sistem Bermasalah (5 Menit)**
+
+* Identifikasi sebuah aplikasi atau sistem digital yang menurut Anda memiliki pengalaman pengguna yang buruk.
+* **Saran:** SIAKAD kampus, aplikasi layanan publik, website pemerintah, antarmuka mesin ATM, atau aplikasi di ponsel Anda yang membingungkan.
+
+**Langkah 2.2 – Identifikasi Masalah (10 Menit)**
+
+* Identifikasi dan dokumentasikan **minimal 3 masalah UX** menggunakan tabel berikut:
+
+| No | Deskripsi Masalah | Prinsip IxD Dilanggar | Aspek UX Terdampak | Tingkat Keparahan (1–5) |
+| :---- | :---- | :---- | :---- | :---- |
+| 1 | *Setelah klik "Simpan KRS", tidak ada indikator loading atau pesan konfirmasi.* | *Feedback* | *Credible, Usable* | 4 |
+| 2 | | | | |
+| 3 | | | | |
+
+* Tingkat keparahan: 1 = Kosmetik, 2 = Minor, 3 = Mayor, 4 = Kritis, 5 = Bencana.
+
+**Langkah 2.3 – Brainstorming Solusi (5 Menit)**
+
+* Pilih **satu masalah** yang paling kritis. Tulis minimal 5 ide solusi tanpa menilai kualitasnya, kemudian pilih satu ide terbaik untuk dikembangkan menjadi sketsa.
+
+**Langkah 2.4 – Pembuatan Sketsa / Low-Fidelity Wireframe (15 Menit)**
+
+* Gambarkan ide solusi Anda dalam bentuk sketsa antarmuka sederhana di atas kertas atau software (Figma, Canva, PowerPoint).
+* Gunakan kotak untuk mewakili gambar/media, garis horizontal untuk teks, dan label untuk menjelaskan nama elemen.
+* Jika lebih dari satu layar, gambarkan berurutan dan hubungkan dengan panah.
+* Foto atau scan sketsa untuk dilampirkan dalam laporan.
 
 *Contoh sketsa low-fidelity untuk perbaikan alur.*
+
+---
+
+#### **Kegiatan 3: Evaluasi Heuristik Nielsen (40 Menit)**
+
+Pada kegiatan ini, Anda akan melakukan *Heuristic Evaluation* secara formal menggunakan 10 Heuristik Nielsen pada aplikasi ketiga.
+
+**Langkah 3.1 – Pemilihan Aplikasi (3 Menit)**
+
+* Pilih aplikasi yang **berbeda** dari Kegiatan 1 dan 2. Saran:
+  * Streaming lokal: **Vidio, WeTV, RCTI+**
+  * Berita: **Detik.com, Kompas.com**
+  * Keuangan: **BRImo, BSI Mobile, Jenius**
+  * Pemerintah: **SatuSehat, e-Samsat**
+
+**Langkah 3.2 – Eksplorasi Aplikasi (7 Menit)**
+
+* Eksplorasi bebas selama 7 menit. Catat hal-hal yang terasa "janggal" atau "membingungkan".
+
+**Langkah 3.3 – Evaluasi Berdasarkan 10 Heuristik Nielsen (25 Menit)**
+
+* *Severity Rating*: **0** = bukan masalah, **1** = kosmetik, **2** = minor, **3** = major, **4** = bencana usability.
+
+| No | Heuristik Nielsen | Contoh Penerapan Baik | Pelanggaran yang Ditemukan | Severity (0–4) |
+| :---- | :---- | :---- | :---- | :---- |
+| 1 | Visibility of System Status | | | |
+| 2 | Match Between System & Real World | | | |
+| 3 | User Control and Freedom | | | |
+| 4 | Consistency and Standards | | | |
+| 5 | Error Prevention | | | |
+| 6 | Recognition Rather Than Recall | | | |
+| 7 | Flexibility and Efficiency of Use | | | |
+| 8 | Aesthetic and Minimalist Design | | | |
+| 9 | Help Users Recognize, Diagnose & Recover from Errors | | | |
+| 10 | Help and Documentation | | | |
+
+**Langkah 3.4 – Rangkuman Temuan (5 Menit)**
+
+* Jawab: (1) Berapa total pelanggaran ditemukan? (2) Heuristik mana paling sering dilanggar? (3) Sebutkan 3 masalah terparah beserta rekomendasi perbaikan singkat. (4) Beri penilaian *usability* keseluruhan skala 1–10 beserta alasannya.
+
+---
+
+#### **Kegiatan 4: Analisis Komparatif Dua Aplikasi Kompetitor (35 Menit)**
+
+**Langkah 4.1 – Pemilihan Pasangan Kompetitor (3 Menit)**
+
+* Pilih salah satu pasangan: **Gojek vs. Grab**, **Tokopedia vs. Shopee**, **Traveloka vs. Tiket.com**, **GoPay vs. OVO**, atau **Vidio vs. Mola**.
+
+**Langkah 4.2 – Penentuan Alur Fitur yang Sama (2 Menit)**
+
+* Tentukan satu alur fitur ekuivalen yang akan dibandingkan di kedua aplikasi.
+
+**Langkah 4.3 – Analisis Perbandingan (25 Menit)**
+
+| Dimensi Perbandingan | Aplikasi A: ________ | Aplikasi B: ________ | Pemenang (A/B/Seri) |
+| :---- | :---- | :---- | :---- |
+| Jumlah langkah untuk menyelesaikan tugas | | | |
+| Kejelasan navigasi (Findable) | | | |
+| Kecepatan respons / performa | | | |
+| Kualitas Feedback pada setiap interaksi | | | |
+| Penanganan error | | | |
+| Estetika dan daya tarik visual (Desirable) | | | |
+| Kemudahan bagi pengguna baru (Onboarding) | | | |
+| Fitur unik yang meningkatkan UX | | | |
+| Kejelasan informasi harga/biaya | | | |
+| Rasa kepercayaan (Credible) | | | |
+
+**Langkah 4.4 – Kesimpulan Komparatif (5 Menit)**
+
+* Tulis kesimpulan dalam paragraf (minimal 150 kata) yang menjawab: Aplikasi mana yang UX-nya lebih baik dan mengapa? Apa keunggulan unik masing-masing? Jika Anda adalah UX Designer di tim yang kalah, satu perubahan paling *impactful* apa yang akan Anda rekomendasikan?
+
+---
 
 ### **E. Laporan Praktikum**
 
 Susunlah laporan praktikum dengan format berikut:
 
-1. **Judul Praktikum, Nama, NIM, Kelas.**  
-2. **Kegiatan 1: Analisis Produk Digital**  
-   * Nama Aplikasi dan Alur Fitur yang dianalisis.  
-   * Tabel Analisis Prinsip IxD yang sudah diisi.  
-   * Tabel Analisis *UX Honeycomb* yang sudah diisi.  
-3. **Kegiatan 2: Ideasi Ulang Pengalaman Buruk**  
-   * Nama Sistem/Aplikasi yang dianalisis.  
-   * Deskripsi Masalah (minimal 2\) menggunakan terminologi IxD dan UX.  
-   * Gambar/Foto Sketsa Solusi Kreatif Anda beserta penjelasan singkat mengenai ide perbaikan tersebut.  
-4. **Kesimpulan:** Rangkum apa yang Anda pelajari dari praktikum ini dalam 2-3 kalimat.
+1. **Judul Praktikum, Nama, NIM, Kelas.**
+2. **Kegiatan 1: Analisis Produk Digital**
+   * Nama Aplikasi dan Alur Fitur yang dianalisis.
+   * Tabel Analisis Prinsip IxD yang sudah diisi lengkap beserta skor.
+   * Tabel Analisis *UX Honeycomb* yang sudah diisi lengkap beserta skor.
+   * Screenshot dari langkah-langkah kunci alur yang dianalisis.
+3. **Kegiatan 2: Ideasi Ulang Pengalaman Buruk**
+   * Nama Sistem/Aplikasi yang dianalisis beserta konteks penggunaan.
+   * Tabel identifikasi masalah (minimal 3 masalah) menggunakan terminologi IxD dan UX.
+   * Daftar ide brainstorming dan alasan pemilihan ide terbaik.
+   * Gambar/Foto Sketsa Solusi Kreatif beserta penjelasan singkat.
+4. **Kegiatan 3: Evaluasi Heuristik**
+   * Nama aplikasi yang dievaluasi.
+   * Tabel evaluasi 10 Heuristik Nielsen yang sudah diisi.
+   * Rangkuman temuan dan rekomendasi perbaikan.
+5. **Kegiatan 4: Analisis Komparatif**
+   * Nama dua aplikasi yang dibandingkan dan alur fitur yang dipilih.
+   * Tabel komparatif yang sudah diisi.
+   * Paragraf kesimpulan komparatif (minimal 150 kata).
+6. **Kesimpulan Akhir:** Rangkum apa yang Anda pelajari dari keseluruhan praktikum ini dalam 3–5 kalimat, hubungkan dengan materi perkuliahan.
 
+---
+
+### **F. Pertanyaan Diskusi**
+
+Jawab pertanyaan-pertanyaan berikut secara individual atau dalam diskusi kelompok. Setiap jawaban minimal 3–5 kalimat.
+
+1. Menurut Anda, prinsip IxD mana yang paling sering diabaikan dalam aplikasi-aplikasi buatan Indonesia? Berikan contoh nyata dan jelaskan dampaknya terhadap pengalaman pengguna.
+
+2. Apakah sebuah aplikasi bisa mendapat nilai tinggi di semua tujuh facet *UX Honeycomb* secara bersamaan? Jelaskan potensi trade-off yang mungkin terjadi antara facet-facet tersebut dengan menggunakan contoh konkret.
+
+3. Bagaimana perbedaan karakteristik pengguna Indonesia (variasi literasi digital, koneksi internet tidak merata, kebiasaan penggunaan ponsel) memengaruhi keputusan desain UX sebuah aplikasi?
+
+4. Dalam konteks *super-app* seperti GoTo (Gojek + Tokopedia), bagaimana tantangan desain interaksi berbeda dibandingkan aplikasi dengan satu fungsi? Prinsip IxD dan heuristik mana yang menjadi paling kritis?
+
+5. Don Norman berpendapat bahwa "desain yang baik adalah desain yang tidak terlihat." Apa maksud pernyataan ini? Apakah Anda setuju? Berikan argumen dengan contoh dari aplikasi yang Anda gunakan sehari-hari.
+
+6. Bandingkan pendekatan *Heuristic Evaluation* (Nielsen) dengan pendekatan *UX Honeycomb* (Morville). Apa kelebihan dan kekurangan masing-masing? Dalam situasi apa Anda akan memilih salah satunya?
+
+7. Prinsip Gestalt *Proximity* menyatakan bahwa elemen yang berdekatan dianggap berhubungan. Identifikasi tiga contoh penerapan prinsip ini dalam aplikasi yang Anda gunakan sehari-hari dan jelaskan mengapa hal itu membuat antarmuka lebih mudah dipahami.
+
+8. Hick's Law menyatakan bahwa lebih banyak pilihan berarti lebih lama waktu pengambilan keputusan. Namun, pengguna juga sering mengeluh jika pilihan terlalu sedikit. Bagaimana seorang desainer UX menyeimbangkan keduanya?
+
+9. *Cognitive load* adalah konsep penting dalam IxD. Identifikasi tiga fitur desain spesifik pada aplikasi yang Anda gunakan yang secara efektif mengurangi *cognitive load* pengguna, dan jelaskan mekanisme kerjanya.
+
+10. Di era AI generatif saat ini, antarmuka berbasis percakapan (*conversational UI*) seperti ChatGPT semakin populer. Bagaimana prinsip-prinsip IxD Don Norman dan heuristik Nielsen masih relevan (atau perlu diadaptasi) untuk jenis antarmuka ini?
+
+11. Seorang UX Designer senior mengatakan: "Data kuantitatif memberi tahu Anda *apa* yang terjadi, tetapi hanya riset kualitatif yang bisa memberi tahu Anda *mengapa* hal itu terjadi." Jelaskan pernyataan ini dalam konteks proses desain UX.
+
+12. Aksesibilitas sering menjadi aspek UX yang diabaikan di Indonesia. Mengapa hal ini terjadi? Apa konsekuensi hukum, etis, dan bisnis dari mengabaikan aksesibilitas?
+
+---
+
+### **G. Rubrik Penilaian**
+
+Laporan praktikum akan dinilai berdasarkan rubrik berikut. Total nilai: **100 poin**.
+
+#### **G.1 Kegiatan 1: Analisis Produk Digital (25 Poin)**
+
+| Kriteria | Sangat Baik (5) | Baik (4) | Cukup (3) | Kurang (2) | Sangat Kurang (1) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Kelengkapan Tabel IxD** | Semua 6 prinsip diisi dengan penjelasan sangat spesifik dan contoh akurat | 5 prinsip diisi dengan baik | 4 prinsip diisi | 3 atau kurang | Tidak diisi |
+| **Kualitas Penjelasan IxD** | Menunjukkan pemahaman mendalam, merujuk elemen UI spesifik | Penjelasan baik dengan beberapa referensi spesifik | Penjelasan cukup tapi generik | Penjelasan sangat dangkal | Tidak ada penjelasan bermakna |
+| **Kelengkapan Tabel UX Honeycomb** | Semua 7 aspek diisi dengan skor yang justified | 5–6 aspek diisi | 3–4 aspek diisi | 1–2 aspek | Tidak diisi |
+| **Kualitas Analisis UX** | Analisis mendalam, skor sesuai penjelasan, ada insight orisinal | Analisis baik, skor umumnya sesuai | Analisis cukup, beberapa skor tidak dijustifikasi | Analisis sangat dangkal | Tidak ada analisis |
+| **Screenshot dan Dokumentasi** | Screenshot relevan dan terlampir untuk semua langkah kunci | Screenshot ada tapi tidak lengkap | Hanya 1–2 screenshot | Screenshot tidak relevan | Tidak ada |
+
+#### **G.2 Kegiatan 2: Ideasi Ulang (25 Poin)**
+
+| Kriteria | Sangat Baik (5) | Baik (4) | Cukup (3) | Kurang (2) | Sangat Kurang (1) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Identifikasi Masalah** | 3+ masalah dengan terminologi IxD & UX yang tepat | 3 masalah diidentifikasi dengan baik | 2 masalah, terminologi kurang tepat | 1 masalah, deskripsi dangkal | Tidak ada identifikasi bermakna |
+| **Penggunaan Terminologi** | Tepat dan konsisten di seluruh laporan | Umumnya tepat | Beberapa terminologi tepat | Terminologi jarang tepat | Tidak menggunakan terminologi |
+| **Kreativitas Solusi** | Orisinal, feasible, langsung mengatasi masalah | Solusi baik dan relevan | Cukup tapi kurang orisinal | Generik dan kurang relevan | Tidak ada solusi bermakna |
+| **Kualitas Wireframe** | Jelas, berlabel dengan baik, alur dapat dipahami | Cukup jelas | Ada tapi sulit dipahami | Sangat kasar | Tidak ada |
+| **Justifikasi Desain** | Menghubungkan solusi dengan masalah secara eksplisit | Penjelasan baik | Penjelasan cukup | Penjelasan sangat singkat | Tidak ada penjelasan |
+
+#### **G.3 Kegiatan 3: Evaluasi Heuristik (25 Poin)**
+
+| Kriteria | Sangat Baik (5) | Baik (4) | Cukup (3) | Kurang (2) | Sangat Kurang (1) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Kelengkapan Evaluasi** | Semua 10 heuristik diisi dengan contoh konkret | 8–9 heuristik diisi | 6–7 heuristik | 3–5 heuristik | Kurang dari 3 |
+| **Ketepatan Identifikasi** | Pelanggaran tepat, *severity rating* justified | Umumnya tepat | Beberapa tepat | Banyak tidak tepat | Tidak teridentifikasi |
+| **Kualitas Rekomendasi** | Spesifik, actionable, langsung merespons pelanggaran | Rekomendasi baik | Cukup tapi generik | Sangat umum | Tidak ada |
+| **Pemahaman Konsep** | Menunjukkan pemahaman jelas tentang makna setiap heuristik | Pemahaman baik | Pemahaman cukup | Beberapa miskonsepsi | Banyak miskonsepsi |
+| **Rangkuman Akhir** | Komprehensif, penilaian justified dengan data | Rangkuman baik | Cukup | Sangat singkat | Tidak ada |
+
+#### **G.4 Kegiatan 4: Analisis Komparatif (25 Poin)**
+
+| Kriteria | Sangat Baik (5) | Baik (4) | Cukup (3) | Kurang (2) | Sangat Kurang (1) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Kelengkapan Tabel** | Semua 10 dimensi diisi dengan informasi spesifik | 8–9 dimensi | 6–7 dimensi | 3–5 dimensi | Kurang dari 3 |
+| **Objektivitas Analisis** | Objektif, penilaian didukung observasi konkret | Umumnya objektif | Cukup objektif | Banyak penilaian tanpa dasar | Sangat bias |
+| **Kedalaman Perbandingan** | Menemukan perbedaan substantif dan non-obvious | Perbedaan yang baik | Beberapa perbedaan | Sangat permukaan | Hampir tidak ada |
+| **Kualitas Kesimpulan** | Menjawab semua pertanyaan panduan, 150+ kata, didukung data | Baik, semua pertanyaan terjawab | Sebagian besar terjawab | Satu dua terjawab | Tidak ada kesimpulan |
+| **Rekomendasi Perbaikan** | Spesifik, justified, dan feasible | Rekomendasi baik | Cukup | Sangat generik | Tidak ada |
+
+---
+
+### **H. Glosarium**
+
+| No | Istilah | Definisi |
+| :---- | :---- | :---- |
+| 1 | **Affordance** | Properti visual atau fisik elemen yang mengisyaratkan cara penggunaannya tanpa instruksi eksplisit. Contoh: tombol yang terlihat cembung mengisyaratkan bahwa ia bisa diklik. |
+| 2 | **Cognitive Load** | Jumlah usaha mental yang dibutuhkan untuk memproses informasi dalam sebuah antarmuka. Desain yang baik meminimalkan *cognitive load* yang tidak perlu. |
+| 3 | **Constraints** | Pembatasan yang disengaja dalam desain untuk mencegah pengguna membuat kesalahan. Contoh: tombol submit yang tidak aktif sampai semua field wajib terisi. |
+| 4 | **Desirability** | Aspek UX Honeycomb yang mengacu pada daya tarik emosional dan estetis sebuah produk—seberapa jauh pengguna "menyukai" dan menginginkan produk tersebut. |
+| 5 | **Feedback** | Respons yang diberikan sistem kepada pengguna setelah mereka melakukan suatu tindakan, mengkonfirmasi bahwa tindakan tersebut diterima dan diproses. |
+| 6 | **Fitts's Law** | Prinsip yang menyatakan bahwa waktu untuk mencapai target adalah fungsi dari jarak dan ukuran target. Target yang lebih besar dan lebih dekat lebih mudah dijangkau. |
+| 7 | **Gestalt Principles** | Sekumpulan prinsip psikologi persepsi visual yang menjelaskan bagaimana otak mengorganisir elemen visual menjadi pola bermakna (proximity, similarity, closure, dll.). |
+| 8 | **Heuristic Evaluation** | Metode evaluasi usability di mana evaluator menilai antarmuka berdasarkan prinsip-prinsip yang telah terbukti. Dikembangkan oleh Jakob Nielsen. |
+| 9 | **Hick's Law** | Prinsip yang menyatakan bahwa waktu pengambilan keputusan meningkat logaritmis seiring bertambahnya jumlah pilihan. |
+| 10 | **Interaction Design (IxD)** | Disiplin desain yang berfokus pada perancangan perilaku produk digital: bagaimana sistem merespons tindakan pengguna dan bagaimana alur antar layar dirancang. |
+| 11 | **Low-Fidelity Wireframe** | Sketsa kasar antarmuka yang menggambarkan tata letak dan alur secara umum tanpa memperhatikan detail visual. Digunakan di tahap awal desain. |
+| 12 | **Mental Model** | Representasi internal yang dimiliki pengguna tentang cara kerja sebuah sistem, digunakan untuk memprediksi apa yang akan terjadi akibat suatu tindakan. |
+| 13 | **Mapping** | Hubungan logis antara kontrol (tombol atau gestur) dan efek yang ditimbulkannya. *Natural mapping* menggunakan analogi dunia fisik untuk menciptakan hubungan yang intuitif. |
+| 14 | **Severity Rating** | Skala penilaian tingkat keparahan masalah usability dalam *heuristic evaluation*, dari 0 (bukan masalah) hingga 4 (bencana usability yang harus diperbaiki segera). |
+| 15 | **Super-App** | Aplikasi yang mengintegrasikan berbagai layanan dalam satu platform. Contoh di Indonesia: GoTo (Gojek + Tokopedia). |
+| 16 | **Usability** | Kemudahan dan efisiensi dengan mana pengguna dapat mencapai tujuan mereka saat menggunakan sebuah produk. Merupakan salah satu facet dari *UX Honeycomb*. |
+| 17 | **User Experience (UX)** | Keseluruhan persepsi dan perasaan seseorang saat, sebelum, dan setelah berinteraksi dengan sebuah produk atau layanan—mencakup aspek fungsional, emosional, dan estetis. |
+| 18 | **UX Honeycomb** | Kerangka kerja yang dikembangkan Peter Morville (2004) yang mendefinisikan tujuh facet kualitas UX: Useful, Usable, Findable, Credible, Desirable, Accessible, dan Valuable. |
+
+---
+
+### **I. Referensi**
+
+1. Norman, D. A. (2013). *The Design of Everyday Things: Revised and Expanded Edition*. Basic Books.
+
+2. Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 249–256. https://doi.org/10.1145/97243.97281
+
+3. Morville, P. (2004). *User Experience Design*. Semantic Studios. Diakses dari https://semanticstudios.com/user_experience_design/
+
+4. Nielsen, J. (1994). *Usability Engineering*. Morgan Kaufmann Publishers.
+
+5. Garrett, J. J. (2011). *The Elements of User Experience: User-Centered Design for the Web and Beyond* (2nd ed.). New Riders.
+
+6. Cooper, A., Reimann, R., Cronin, D., & Noessel, C. (2014). *About Face: The Essentials of Interaction Design* (4th ed.). Wiley.
+
+7. Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285. https://doi.org/10.1207/s15516709cog1202_4
+
+8. Fitts, P. M. (1954). The information capacity of the human motor system in controlling the amplitude of movement. *Journal of Experimental Psychology*, 47(6), 381–391. https://doi.org/10.1037/h0055392
+
+9. Hick, W. E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11–26. https://doi.org/10.1080/17470215208416600
+
+10. Wertheimer, M. (1923). Untersuchungen zur Lehre von der Gestalt II. *Psychologische Forschung*, 4, 301–350.
+
+11. Shneiderman, B., Plaisant, C., Cohen, M., Jacobs, S., & Elmqvist, N. (2016). *Designing the User Interface: Strategies for Effective Human-Computer Interaction* (6th ed.). Pearson.
+
+12. APJII. (2023). *Laporan Survei Internet Indonesia 2022–2023*. Asosiasi Penyelenggara Jasa Internet Indonesia. Diakses dari https://apjii.or.id/survei
+
+13. Google, Temasek, & Bain & Company. (2023). *e-Conomy SEA 2023: Indonesia Digital Economy Report*. Diakses dari https://economysea.withgoogle.com/
+
+14. ISO 9241-210. (2019). *Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems*. International Organization for Standardization.
+
+15. Tidwell, J., Brewer, C., & Valencia, A. (2020). *Designing Interfaces: Patterns for Effective Interaction Design* (3rd ed.). O'Reilly Media.
